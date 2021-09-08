@@ -18,7 +18,7 @@ variable "ship_instance_type" {
 variable "subnet_id" {
   description = "The AWS network id representing the allowed vpc"
   # internal-Subnet-B
-  default = "subnet-0dd447dd1e3e8f355"
+  default = "subnet-06cf6942c47c4958d"
 }
 
 variable "ship_userdata" {
@@ -47,7 +47,7 @@ variable "ami" {
 
 variable "security_group_ssh" {
   description = "The AWS security group id"
-  default = "SG-SSH-Server-Internal-lsdsdpas-dev"
+  default = "sg-0b6628f01870c90ed"
 }
 
 variable "iam_role" {
