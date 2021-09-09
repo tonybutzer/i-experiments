@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "region",
+                "region_model_id": "KR_Pyeongchang_R01",
+                "version": "1.2.0",
+                "mgrs": "52SDG",
+                "start_date": "2015-07-03",
+                "end_date": "2019-03-05"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.649808,
+                            37.683222
+                        ],
+                        [
+                            128.649581,
+                            37.643678
+                        ],
+                        [
+                            128.727059,
+                            37.643746
+                        ],
+                        [
+                            128.727206,
+                            37.683366
+                        ],
+                        [
+                            128.649808,
+                            37.683222
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "52SDG_KR_Pyeongchang_R01_0000",
+                "start_date": "2015-07-03",
+                "end_date": "2017-09-20",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.674225,
+                            37.660566
+                        ],
+                        [
+                            128.674225,
+                            37.66349
+                        ],
+                        [
+                            128.665653,
+                            37.66349
+                        ],
+                        [
+                            128.665653,
+                            37.660566
+                        ],
+                        [
+                            128.674225,
+                            37.660566
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "52SDG_KR_Pyeongchang_R01_0001",
+                "start_date": "2017-04-03",
+                "end_date": "2018-02-22",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.676737,
+                            37.674869
+                        ],
+                        [
+                            128.676737,
+                            37.681406
+                        ],
+                        [
+                            128.667705,
+                            37.681406
+                        ],
+                        [
+                            128.667705,
+                            37.674869
+                        ],
+                        [
+                            128.676737,
+                            37.674869
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "52SDG_KR_Pyeongchang_R01_0002",
+                "start_date": "2015-07-03",
+                "end_date": "2018-02-22",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.710919,
+                            37.664392
+                        ],
+                        [
+                            128.710919,
+                            37.670334
+                        ],
+                        [
+                            128.702183,
+                            37.670334
+                        ],
+                        [
+                            128.702183,
+                            37.664392
+                        ],
+                        [
+                            128.710919,
+                            37.664392
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "52SDG_KR_Pyeongchang_R01_0003",
+                "start_date": "2015-07-03",
+                "end_date": "2018-02-22",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.699332,
+                            37.655002
+                        ],
+                        [
+                            128.699332,
+                            37.663721
+                        ],
+                        [
+                            128.692658,
+                            37.663721
+                        ],
+                        [
+                            128.692658,
+                            37.655002
+                        ],
+                        [
+                            128.699332,
+                            37.655002
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "52SDG_KR_Pyeongchang_R01_0004",
+                "start_date": "2015-07-03",
+                "end_date": "2017-09-20",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.70094,
+                            37.671926
+                        ],
+                        [
+                            128.70094,
+                            37.674552
+                        ],
+                        [
+                            128.697684,
+                            37.674552
+                        ],
+                        [
+                            128.697684,
+                            37.671926
+                        ],
+                        [
+                            128.70094,
+                            37.671926
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "52SDG_KR_Pyeongchang_R01_0005",
+                "start_date": "2016-06-28",
+                "end_date": "2019-03-05",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            128.721577,
+                            37.655877
+                        ],
+                        [
+                            128.721577,
+                            37.662438
+                        ],
+                        [
+                            128.711106,
+                            37.662438
+                        ],
+                        [
+                            128.711106,
+                            37.655877
+                        ],
+                        [
+                            128.721577,
+                            37.655877
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

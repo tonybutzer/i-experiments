@@ -1,0 +1,511 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "region",
+                "region_model_id": "US_Jacksonville_R01",
+                "version": "1.2.0",
+                "mgrs": "17RMP",
+                "start_date": "2009-05-09",
+                "end_date": "2020-04-04"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.69526,
+                            30.365252
+                        ],
+                        [
+                            -81.694347,
+                            30.298499
+                        ],
+                        [
+                            -81.597295,
+                            30.299149
+                        ],
+                        [
+                            -81.596717,
+                            30.366656
+                        ],
+                        [
+                            -81.69526,
+                            30.365252
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0000",
+                "start_date": "2016-02-14",
+                "end_date": "2017-11-01",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.636403,
+                            30.320926
+                        ],
+                        [
+                            -81.636403,
+                            30.323657
+                        ],
+                        [
+                            -81.639759,
+                            30.323657
+                        ],
+                        [
+                            -81.639759,
+                            30.320926
+                        ],
+                        [
+                            -81.636403,
+                            30.320926
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0001",
+                "start_date": "2016-07-13",
+                "end_date": "2020-01-26",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.608585,
+                            30.356843
+                        ],
+                        [
+                            -81.608585,
+                            30.360025
+                        ],
+                        [
+                            -81.61206,
+                            30.360025
+                        ],
+                        [
+                            -81.61206,
+                            30.356843
+                        ],
+                        [
+                            -81.608585,
+                            30.356843
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0002",
+                "start_date": "2018-05-09",
+                "end_date": "2019-12-27",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.605761,
+                            30.359667
+                        ],
+                        [
+                            -81.605761,
+                            30.361563
+                        ],
+                        [
+                            -81.609022,
+                            30.361563
+                        ],
+                        [
+                            -81.609022,
+                            30.359667
+                        ],
+                        [
+                            -81.605761,
+                            30.359667
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0003",
+                "start_date": "2009-05-09",
+                "end_date": "2012-06-28",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.661634,
+                            30.328713
+                        ],
+                        [
+                            -81.661634,
+                            30.330932
+                        ],
+                        [
+                            -81.665297,
+                            30.330932
+                        ],
+                        [
+                            -81.665297,
+                            30.328713
+                        ],
+                        [
+                            -81.661634,
+                            30.328713
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0004",
+                "start_date": "2016-07-13",
+                "end_date": "2019-09-08",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.648009,
+                            30.315658
+                        ],
+                        [
+                            -81.648009,
+                            30.318363
+                        ],
+                        [
+                            -81.652512,
+                            30.318363
+                        ],
+                        [
+                            -81.652512,
+                            30.315658
+                        ],
+                        [
+                            -81.648009,
+                            30.315658
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0005",
+                "start_date": "2016-07-13",
+                "end_date": "2019-01-06",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.657827,
+                            30.311499
+                        ],
+                        [
+                            -81.657827,
+                            30.314274
+                        ],
+                        [
+                            -81.662649,
+                            30.314274
+                        ],
+                        [
+                            -81.662649,
+                            30.311499
+                        ],
+                        [
+                            -81.657827,
+                            30.311499
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0006",
+                "start_date": "2018-03-10",
+                "end_date": "2019-09-06",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.655027,
+                            30.314052
+                        ],
+                        [
+                            -81.655027,
+                            30.315491
+                        ],
+                        [
+                            -81.656742,
+                            30.315491
+                        ],
+                        [
+                            -81.656742,
+                            30.314052
+                        ],
+                        [
+                            -81.655027,
+                            30.314052
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0007",
+                "start_date": "2016-09-05",
+                "end_date": "2018-08-10",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.657931,
+                            30.313567
+                        ],
+                        [
+                            -81.657931,
+                            30.316889
+                        ],
+                        [
+                            -81.662632,
+                            30.316889
+                        ],
+                        [
+                            -81.662632,
+                            30.313567
+                        ],
+                        [
+                            -81.657931,
+                            30.313567
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0008",
+                "start_date": "2015-06-16",
+                "end_date": "2016-07-19",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.597085,
+                            30.363581
+                        ],
+                        [
+                            -81.597085,
+                            30.365842
+                        ],
+                        [
+                            -81.600938,
+                            30.365842
+                        ],
+                        [
+                            -81.600938,
+                            30.363581
+                        ],
+                        [
+                            -81.597085,
+                            30.363581
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0009",
+                "start_date": "2016-09-05",
+                "end_date": "2020-01-26",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.664201,
+                            30.326329
+                        ],
+                        [
+                            -81.664201,
+                            30.328646
+                        ],
+                        [
+                            -81.670828,
+                            30.328646
+                        ],
+                        [
+                            -81.670828,
+                            30.326329
+                        ],
+                        [
+                            -81.664201,
+                            30.326329
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0010",
+                "start_date": "2017-09-01",
+                "end_date": "2020-04-04",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.667773,
+                            30.327796
+                        ],
+                        [
+                            -81.667773,
+                            30.330332
+                        ],
+                        [
+                            -81.675088,
+                            30.330332
+                        ],
+                        [
+                            -81.675088,
+                            30.327796
+                        ],
+                        [
+                            -81.667773,
+                            30.327796
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "site",
+                "status": "positive_annotated",
+                "site_id": "17RMP_US_Jacksonville_R01_0011",
+                "start_date": "2014-09-12",
+                "end_date": "2015-08-20",
+                "score": 1.0,
+                "predicted_end_date": null
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.605845,
+                            30.357616
+                        ],
+                        [
+                            -81.605845,
+                            30.360284
+                        ],
+                        [
+                            -81.610241,
+                            30.360284
+                        ],
+                        [
+                            -81.610241,
+                            30.357616
+                        ],
+                        [
+                            -81.605845,
+                            30.357616
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
