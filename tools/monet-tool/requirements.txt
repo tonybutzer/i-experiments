@@ -1,0 +1,10 @@
+# gdal must be installed by something other than pip
+sat-search
+wget
+requests
+boto3
+geojson
+psutil
+
+# installs monet in editable mode, comment this out if you use `python setup.py install`
+-e .
