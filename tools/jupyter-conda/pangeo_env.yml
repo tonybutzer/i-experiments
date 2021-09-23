@@ -31,3 +31,5 @@ dependencies:
   - erddapy
   - xmltodict
   - folium
+#aws
+  - boto3
