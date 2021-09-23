@@ -29,3 +29,5 @@ dependencies:
   - fsspec
   - s3fs
   - erddapy
+  - xmltodict
+  - folium
