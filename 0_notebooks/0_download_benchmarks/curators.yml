@@ -1,0 +1,8 @@
+# https://codebeautify.org/yaml-validator
+---
+  eros:
+    url: 'https://landsatlook.usgs.gov/stac-server'
+    collection: "landsat-c2l2-sr"
+  element84:
+    url: 'https://earth-search.aws.element84.com/v0'
+    collection: 'https://earth-search.aws.element84.com/v0'
