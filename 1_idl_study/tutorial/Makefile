@@ -1,0 +1,2 @@
+test:
+	idl -e main
