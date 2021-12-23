@@ -1,3 +1,6 @@
+cat:
+	cat Makefile
+
 Image=tbutzer/monet-tool 
 build:
 	docker build -t ${Image} .
