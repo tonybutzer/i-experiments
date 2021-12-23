@@ -1,2 +1,0 @@
-publish:
-	(cd ..; make publish)
